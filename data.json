@@ -1,0 +1,128 @@
+[
+  {
+    "carrier": "AT&&T",
+    "SMS": "@txt.att.net",
+    "MMS": "@mms.att.net",
+    "Tier": 1
+  },
+  {
+    "carrier": "Sprint",
+    "SMS": "@messaging.sprintpcs.com",
+    "MMS": "@pm.sprint.com",
+    "Tier": 1
+  },
+  {
+    "carrier": "T-Mobile",
+    "SMS": "@tmomail.net",
+    "MMS": "@tmomail.net",
+    "Tier": 1
+  },
+  {
+    "carrier": "Verizon",
+    "SMS": "@VtSMS.com",
+    "MMS": "@vzwpix.com",
+    "Tier": 1
+  },
+  {
+    "carrier": "Boost Mobile",
+    "SMS": "@sms.myboostmobile.com",
+    "MMS": "@myboostmobile.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Consumer Cellular",
+    "SMS": "@mailmymobile.net",
+    "MMS": "@mailmymobile.net",
+    "Tier": 2
+  },
+  {
+    "carrier": "Cricket",
+    "SMS": "@sms.cricketwireless.net",
+    "MMS": "@mms.cricketwireless.net",
+    "Tier": 2
+  },
+  {
+    "carrier": "C-Spire",
+    "SMS": "@cspire1.com",
+    "MMS": "@cspire1.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Google Fi (Project Fi)",
+    "SMS": "@msg.fi.google.com",
+    "MMS": "@msg.fi.google.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Metro PCS",
+    "SMS": "@mymetropcs.com",
+    "MMS": "@mymetropcs.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Mint Mobile",
+    "SMS": "@mailmymobile.net",
+    "MMS": "@mailmymobile.net",
+    "Tier": 2
+  },
+  {
+    "carrier": "Page Plus",
+    "SMS": "@vtSMS.com",
+    "MMS": "@vtSMS.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Red Pocket",
+    "SMS": "@vtSMS.com",
+    "MMS": "@vtSMS.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Republic Wireless",
+    "SMS": "@tSMS.republicwireless.com",
+    "MMS": "@tSMS.republicwireless.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Simple Mobile",
+    "SMS": "@smtSMS.com",
+    "MMS": "@smtSMS.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Straight Talk",
+    "SMS": "@vtext.com",
+    "MMS": "@mypixmessages.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Ting",
+    "SMS": "@message.ting.com",
+    "MMS": "@message.ting.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Tracfone",
+    "SMS": "@mmst5.tracfone.com",
+    "MMS": "@mmst5.tracfone.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "U.S. Cellular",
+    "SMS": "@email.uscc.net",
+    "MMS": "@mms.uscc.net",
+    "Tier": 2
+  },
+  {
+    "carrier": "Virgin Mobile",
+    "SMS": "@vmobl.com",
+    "MMS": "@vmpix.com",
+    "Tier": 2
+  },
+  {
+    "carrier": "Xfinity Mobile",
+    "SMS": "@vtext.com",
+    "MMS": "@mypixmessages.com",
+    "Tier": 2
+  }
+]
